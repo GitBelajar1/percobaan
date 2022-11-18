@@ -1,0 +1,8 @@
+ikutin step2nya dulu ini sampe selesai
+
+- baris pertama itu perintah untuk nulis percobaan sekaligus bikin file namanya README.md
+- baris kedua, add data ke dalam repo local
+- baris ketiga, menambah keterangan setelah add
+- baris ke empat bikin branch namanya main
+- baris ke lima, remote reponya
+- push data ke repo github
