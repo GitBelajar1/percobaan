@@ -6,3 +6,8 @@ ikutin step2nya dulu ini sampe selesai
 - baris ke empat bikin branch namanya main
 - baris ke lima, remote reponya
 - push data ke repo github
+
+login dulu,
+sip berhasil
+
+Alhamdulillah 
